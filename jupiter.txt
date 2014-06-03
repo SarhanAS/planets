@@ -1,4 +1,6 @@
 largest planet in the solar system
 gas giant
 closest gaseous planet to the sun
-located after Mars
+located after Mars.
+Has storms that have radii larger than the Earth.
+
